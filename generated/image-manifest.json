@@ -1,0 +1,212 @@
+{
+  "texture-light": {
+    "file": "texture-light.webp",
+    "role": "texture-bg",
+    "page": "/",
+    "display": "bg-overlay"
+  },
+  "texture-dark": {
+    "file": "texture-dark.webp",
+    "role": "texture-bg",
+    "page": "/",
+    "display": "bg-overlay"
+  },
+  "hero-about": {
+    "file": "hero-about.webp",
+    "role": "sub-hero-bg",
+    "page": "/about.html",
+    "display": "full-bleed"
+  },
+  "hero-apartments": {
+    "file": "hero-apartments.webp",
+    "role": "sub-hero-bg",
+    "page": "/apartments.html",
+    "display": "full-bleed"
+  },
+  "hero-blog": {
+    "file": "hero-blog.webp",
+    "role": "sub-hero-bg",
+    "page": "/blog.html",
+    "display": "full-bleed"
+  },
+  "hero-contact": {
+    "file": "hero-contact.webp",
+    "role": "sub-hero-bg",
+    "page": "/contact.html",
+    "display": "full-bleed"
+  },
+  "hero-hotels": {
+    "file": "hero-hotels.webp",
+    "role": "sub-hero-bg",
+    "page": "/hotels.html",
+    "display": "full-bleed"
+  },
+  "hero-offices": {
+    "file": "hero-offices.webp",
+    "role": "sub-hero-bg",
+    "page": "/offices.html",
+    "display": "full-bleed"
+  },
+  "hero-process": {
+    "file": "hero-process.webp",
+    "role": "sub-hero-bg",
+    "page": "/process.html",
+    "display": "full-bleed"
+  },
+  "hero-capabilities": {
+    "file": "hero-capabilities.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/index.html",
+    "display": "full-bleed"
+  },
+  "hero-engineering": {
+    "file": "hero-engineering.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/engineering/index.html",
+    "display": "full-bleed"
+  },
+  "hero-structural": {
+    "file": "hero-structural.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/engineering/structural/index.html",
+    "display": "full-bleed"
+  },
+  "hero-sustainability": {
+    "file": "hero-sustainability.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/engineering/sustainability/index.html",
+    "display": "full-bleed"
+  },
+  "hero-building-systems": {
+    "file": "hero-building-systems.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/systems/index.html",
+    "display": "full-bleed"
+  },
+  "hero-hybrid": {
+    "file": "hero-hybrid.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/systems/hybrid/index.html",
+    "display": "full-bleed"
+  },
+  "hero-panelized": {
+    "file": "hero-panelized.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/systems/panelized/index.html",
+    "display": "full-bleed"
+  },
+  "hero-volumetric": {
+    "file": "hero-volumetric.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/systems/volumetric/index.html",
+    "display": "full-bleed"
+  },
+  "hero-design-guides": {
+    "file": "hero-design-guides.webp",
+    "role": "sub-hero-bg",
+    "page": "/design-guides/index.html",
+    "display": "full-bleed"
+  },
+  "hero-factory": {
+    "file": "hero-factory.webp",
+    "role": "sub-hero-bg",
+    "page": "/factory/index.html",
+    "display": "full-bleed"
+  },
+  "hero-faq": {
+    "file": "hero-faq.webp",
+    "role": "sub-hero-bg",
+    "page": "/faq/index.html",
+    "display": "full-bleed"
+  },
+  "hero-how-it-works": {
+    "file": "hero-how-it-works.webp",
+    "role": "sub-hero-bg",
+    "page": "/how-it-works/index.html",
+    "display": "full-bleed"
+  },
+  "hero-industries": {
+    "file": "hero-industries.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/index.html",
+    "display": "full-bleed"
+  },
+  "hero-education": {
+    "file": "hero-education.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/education/index.html",
+    "display": "full-bleed"
+  },
+  "hero-healthcare": {
+    "file": "hero-healthcare.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/healthcare/index.html",
+    "display": "full-bleed"
+  },
+  "hero-military": {
+    "file": "hero-military.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/military-emergency/index.html",
+    "display": "full-bleed"
+  },
+  "hero-senior-living": {
+    "file": "hero-senior-living.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/senior-living/index.html",
+    "display": "full-bleed"
+  },
+  "hero-privacy": {
+    "file": "hero-privacy.webp",
+    "role": "sub-hero-bg",
+    "page": "/privacy/index.html",
+    "display": "full-bleed"
+  },
+  "hero-projects": {
+    "file": "hero-projects.webp",
+    "role": "sub-hero-bg",
+    "page": "/projects/index.html",
+    "display": "full-bleed"
+  },
+  "hero-quality": {
+    "file": "hero-quality.webp",
+    "role": "sub-hero-bg",
+    "page": "/quality/index.html",
+    "display": "full-bleed"
+  },
+  "hero-quote": {
+    "file": "hero-quote.webp",
+    "role": "sub-hero-bg",
+    "page": "/quote/index.html",
+    "display": "full-bleed"
+  },
+  "hero-shipping": {
+    "file": "hero-shipping.webp",
+    "role": "sub-hero-bg",
+    "page": "/shipping/index.html",
+    "display": "full-bleed"
+  },
+  "hero-terms": {
+    "file": "hero-terms.webp",
+    "role": "sub-hero-bg",
+    "page": "/terms/index.html",
+    "display": "full-bleed"
+  },
+  "hero-office-buildings-guide": {
+    "file": "hero-office-buildings-guide.webp",
+    "role": "sub-hero-bg",
+    "page": "/blog/modular-office-buildings-guide.html",
+    "display": "full-bleed"
+  },
+  "cta-bg-photo": {
+    "file": "cta-bg-photo.webp",
+    "role": "cta-bg",
+    "page": "/all",
+    "display": "full-bleed"
+  },
+  "footer-bg-photo": {
+    "file": "footer-bg-photo.webp",
+    "role": "texture-bg",
+    "page": "/all",
+    "display": "full-bleed"
+  }
+}

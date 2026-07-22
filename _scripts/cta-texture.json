@@ -1,0 +1,14 @@
+{
+  "images": [
+    {
+      "id": "cta-texture-dark",
+      "role": "texture-bg",
+      "page": "/all",
+      "display": "full-bleed",
+      "prompt": "Abstract dark architectural geometric pattern with fine intersecting lines and subtle diagonal grid, industrial blueprint aesthetic, dark navy background #0F2E4C with lighter steel-blue linework, suitable as a semi-transparent CSS background overlay, low contrast but clearly visible geometric structure, no text, no logos"
+    }
+  ],
+  "meta": {
+    "description": "CTA band texture replacement with visible geometric pattern"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "id": "cta-bg-photo",
+      "role": "cta-bg",
+      "page": "/all",
+      "display": "full-bleed",
+      "prompt": "Dramatic sunset view of a modern modular building under construction, a crane lifting a finished building module into place, warm golden hour light, architectural photography, deep blue and orange sky, professional construction atmosphere, upper area naturally dark for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "footer-bg-photo",
+      "role": "texture-bg",
+      "page": "/all",
+      "display": "full-bleed",
+      "prompt": "Close-up detail shot of precision-engineered steel framework in a modular construction factory, clean industrial aesthetic with geometric metal beams and connections, dark moody lighting with subtle warm accents, sophisticated architectural detail, suitable as darkened background for footer, no people faces, no text, no logos"
+    }
+  ],
+  "meta": {
+    "description": "Photo backgrounds for CTA band and footer"
+  }
+}

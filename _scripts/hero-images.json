@@ -1,0 +1,225 @@
+{
+  "images": [
+    {
+      "id": "hero-about",
+      "role": "sub-hero-bg",
+      "page": "/about.html",
+      "display": "full-bleed",
+      "prompt": "Modern modular construction company headquarters lobby, clean architectural design with warm wood and steel accents, professional B2B atmosphere, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-apartments",
+      "role": "sub-hero-bg",
+      "page": "/apartments.html",
+      "display": "full-bleed",
+      "prompt": "Contemporary 6-story modular apartment building exterior at golden hour, clean modern facade with balconies and glass railings, urban setting, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-blog",
+      "role": "sub-hero-bg",
+      "page": "/blog.html",
+      "display": "full-bleed",
+      "prompt": "Professional architectural workspace with blueprints, scale model of modular building, and digital tablet showing 3D BIM model, modern desk setup, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-contact",
+      "role": "sub-hero-bg",
+      "page": "/contact.html",
+      "display": "full-bleed",
+      "prompt": "Professional construction firm meeting space with architectural models on display, warm modern interior with glass walls showing modular buildings beyond, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-hotels",
+      "role": "sub-hero-bg",
+      "page": "/hotels.html",
+      "display": "full-bleed",
+      "prompt": "Luxury modular hotel building at dusk with warm interior lighting glowing through large windows, sleek contemporary architecture with clean lines, professional architectural photography, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-offices",
+      "role": "sub-hero-bg",
+      "page": "/offices.html",
+      "display": "full-bleed",
+      "prompt": "Modern 4-story modular office building with striking glass curtain wall and steel frame, surrounded by landscaped plaza, bright natural daylight, professional architectural photography, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-process",
+      "role": "sub-hero-bg",
+      "page": "/process.html",
+      "display": "full-bleed",
+      "prompt": "Aerial view of modular building assembly line in a vast bright factory, modules at different completion stages arranged in sequence, precision manufacturing environment with clean floors, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-capabilities",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/index.html",
+      "display": "full-bleed",
+      "prompt": "Advanced modular construction factory floor showing multiple building systems side by side, volumetric modules and panelized wall systems being assembled, high-tech precision manufacturing, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-engineering",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/engineering/index.html",
+      "display": "full-bleed",
+      "prompt": "Engineering design office with large monitors displaying 3D BIM structural models of modular buildings, blue ambient lighting, technical diagrams on walls, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-structural",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/engineering/structural/index.html",
+      "display": "full-bleed",
+      "prompt": "Steel frame of a modular building under assembly showing precision-engineered connections and cross-bracing, industrial beauty with strong geometric lines, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-sustainability",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/engineering/sustainability/index.html",
+      "display": "full-bleed",
+      "prompt": "Green modular building with living roof garden, solar panels integrated into modern facade, surrounded by mature trees and native landscaping, bright natural lighting, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-building-systems",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/systems/index.html",
+      "display": "full-bleed",
+      "prompt": "Three modular building types displayed together as architectural cutaway models showing volumetric, panelized, and hybrid construction systems, professional studio lighting, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-hybrid",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/systems/hybrid/index.html",
+      "display": "full-bleed",
+      "prompt": "Hybrid modular construction system combining volumetric pods with panelized wall elements, showing the connection details where different systems meet seamlessly, clean factory setting, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-panelized",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/systems/panelized/index.html",
+      "display": "full-bleed",
+      "prompt": "Flat-packed panelized modular wall and floor systems stacked neatly in a warehouse ready for shipping, each panel labeled and wrapped, geometric order and precision, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-volumetric",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/systems/volumetric/index.html",
+      "display": "full-bleed",
+      "prompt": "Completed three-dimensional modular building pods with full interior finishes in a factory, bathroom fixtures and kitchen cabinets visible through open sides, volumetric construction at scale, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-design-guides",
+      "role": "sub-hero-bg",
+      "page": "/design-guides/index.html",
+      "display": "full-bleed",
+      "prompt": "Architectural drawing table with detailed modular building blueprints, scale ruler, and material samples, warm desk lamp lighting, creative professional workspace, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-factory",
+      "role": "sub-hero-bg",
+      "page": "/factory/index.html",
+      "display": "full-bleed",
+      "prompt": "Expansive modern modular construction factory interior with automated production lines, overhead cranes, and partially completed building modules, bright industrial lighting, clean organized workspace showing scale, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-faq",
+      "role": "sub-hero-bg",
+      "page": "/faq/index.html",
+      "display": "full-bleed",
+      "prompt": "Modern architectural information center with modular building display models on illuminated pedestals, clean minimalist design with interactive screens showing construction data, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-how-it-works",
+      "role": "sub-hero-bg",
+      "page": "/how-it-works/index.html",
+      "display": "full-bleed",
+      "prompt": "Four-stage visual timeline of modular construction process from digital design on screen to factory production to truck transport to final site assembly, shown as clean minimalist infographic-style arrangement, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-industries",
+      "role": "sub-hero-bg",
+      "page": "/industries/index.html",
+      "display": "full-bleed",
+      "prompt": "Collage of diverse modular building types including healthcare facility, school, apartment complex, and military barracks arranged in a grid, showcasing versatility of modular construction across sectors, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-education",
+      "role": "sub-hero-bg",
+      "page": "/industries/education/index.html",
+      "display": "full-bleed",
+      "prompt": "Modern modular school campus building with colorful accent panels, large windows for natural light, outdoor learning spaces and playground, bright welcoming educational environment, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-healthcare",
+      "role": "sub-hero-bg",
+      "page": "/industries/healthcare/index.html",
+      "display": "full-bleed",
+      "prompt": "Clean modern modular healthcare clinic building with white facade and blue glass accents, medical-grade construction quality visible, professional medical facility exterior, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-military",
+      "role": "sub-hero-bg",
+      "page": "/industries/military-emergency/index.html",
+      "display": "full-bleed",
+      "prompt": "Rugged modular military barracks and emergency response buildings arranged in a field camp configuration, durable steel construction with desert-tan finish, functional and robust design, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-senior-living",
+      "role": "sub-hero-bg",
+      "page": "/industries/senior-living/index.html",
+      "display": "full-bleed",
+      "prompt": "Warm and inviting modular senior living community building with accessible design features, landscaped gardens with walking paths, craftsman-style exterior with covered porches, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-privacy",
+      "role": "sub-hero-bg",
+      "page": "/privacy/index.html",
+      "display": "full-bleed",
+      "prompt": "Abstract modern architectural composition with frosted glass panels and steel framework, soft diffused lighting creating a sense of transparency and trust, minimalist corporate aesthetic, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-projects",
+      "role": "sub-hero-bg",
+      "page": "/projects/index.html",
+      "display": "full-bleed",
+      "prompt": "Gallery wall of completed modular building projects displayed as large format architectural photographs on a clean white wall, diverse building types from apartments to hotels to offices, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-quality",
+      "role": "sub-hero-bg",
+      "page": "/quality/index.html",
+      "display": "full-bleed",
+      "prompt": "Precision quality control inspection station in a modular construction factory, laser measurement tools and testing equipment on a clean workbench, ISO-certified laboratory environment, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-quote",
+      "role": "sub-hero-bg",
+      "page": "/quote/index.html",
+      "display": "full-bleed",
+      "prompt": "Professional architectural consultation desk with project cost estimation documents, calculator, scale model of modular building, and laptop showing spreadsheet, warm professional lighting, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-shipping",
+      "role": "sub-hero-bg",
+      "page": "/shipping/index.html",
+      "display": "full-bleed",
+      "prompt": "Flatbed trucks loaded with wrapped modular building units on a highway with global logistics map overlay, shipping containers and freight logistics hub in background, professional industrial photography, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-terms",
+      "role": "sub-hero-bg",
+      "page": "/terms/index.html",
+      "display": "full-bleed",
+      "prompt": "Abstract architectural composition of clean geometric glass and steel forms, sharp lines and transparent surfaces representing clarity and precision, minimalist corporate aesthetic, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    },
+    {
+      "id": "hero-office-buildings-guide",
+      "role": "sub-hero-bg",
+      "page": "/blog/modular-office-buildings-guide.html",
+      "display": "full-bleed",
+      "prompt": "Stunning modern modular office building with innovative facade combining glass, steel, and warm wood elements, creative workplace architecture at blue hour, professional architectural photography, upper area with dark gradient for text overlay, no people faces, no text, no logos"
+    }
+  ],
+  "meta": {
+    "project": "ems-prefab",
+    "description": "Per-page hero background images for MODURA modular construction site"
+  }
+}

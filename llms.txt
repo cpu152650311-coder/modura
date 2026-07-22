@@ -1,0 +1,76 @@
+# MODURA Modular Construction — AI Index
+
+## Core Pages
+- https://ems-prefab.com/ — Homepage: Premium modular construction for apartments, hotels, and offices
+- https://ems-prefab.com/about/ — About MODURA: company history, team, values
+- https://ems-prefab.com/process/ — Construction process: design, factory production, site assembly
+- https://ems-prefab.com/factory/ — Factory tour: 4 factories, 14-station assembly line, certifications
+- https://ems-prefab.com/quality/ — Quality control: 147-point inspection, ISO 9001/14001/45001, EN 1090
+- https://ems-prefab.com/contact/ — Contact & inquiry form
+- https://ems-prefab.com/quote/ — Quick quote request form
+
+## Products
+- https://ems-prefab.com/apartments/ — Modular apartment buildings
+- https://ems-prefab.com/hotels/ — Modular hotel construction
+- https://ems-prefab.com/offices/ — Modular office buildings
+
+## Capabilities
+- https://ems-prefab.com/capabilities/ — Capabilities overview hub
+- https://ems-prefab.com/capabilities/systems/ — Building systems overview (volumetric, panelized, hybrid)
+- https://ems-prefab.com/capabilities/systems/volumetric/ — Volumetric 3D modular systems
+- https://ems-prefab.com/capabilities/systems/panelized/ — Panelized 2D flat-pack systems
+- https://ems-prefab.com/capabilities/systems/hybrid/ — Hybrid modular systems
+- https://ems-prefab.com/capabilities/engineering/ — Engineering capabilities overview
+- https://ems-prefab.com/capabilities/engineering/structural/ — Structural engineering (Eurocodes, BIM LOD 400)
+- https://ems-prefab.com/capabilities/engineering/sustainability/ — Sustainable design (LEED, BREEAM, embodied carbon)
+
+## Industries
+- https://ems-prefab.com/industries/ — Industry solutions hub
+- https://ems-prefab.com/industries/healthcare/ — Healthcare modular construction (HTM/HBN compliance)
+- https://ems-prefab.com/industries/education/ — Education modular buildings (BB 103/101 compliance)
+- https://ems-prefab.com/industries/senior-living/ — Senior living modular facilities (BS 8300 accessible)
+- https://ems-prefab.com/industries/military-emergency/ — Military & emergency modular (STANAG 4569, IP65)
+
+## Resources
+- https://ems-prefab.com/how-it-works/ — 7-step project journey with timeline
+- https://ems-prefab.com/design-guides/ — Design guides: DFM rules, BIM families, technical parameters
+- https://ems-prefab.com/shipping/ — Global shipping: 4 factories, road/sea/rail/air, GPS tracking
+- https://ems-prefab.com/projects/ — Project case studies (6 projects across sectors)
+- https://ems-prefab.com/faq/ — Frequently asked questions (17 Q&A in 4 categories)
+- https://ems-prefab.com/blog/ — Blog: modular construction insights and guides
+
+## Blog Articles
+
+- https://ems-prefab.com/blog/how-modular-hotels-cut-construction-time/ — How Modular Hotels Cut Construction Time by 60% | MODURA Blog
+- https://ems-prefab.com/blog/mixed-use-modular-developments/ — Mixed-Use Modular Developments: Combining Retail, Residential and Office Spaces | MODURA
+- https://ems-prefab.com/blog/modular-apartments-developer-guide/ — Modular Apartments: The Developer's Guide to Faster, More Profitable Multi-Family Construction | MODURA
+- https://ems-prefab.com/blog/modular-building-design-customization/ — Modular Building Design Flexibility &mdash; Customization Options &amp; Architectural Freedom | MODURA Blog
+- https://ems-prefab.com/blog/modular-cold-storage-construction/ — Modular Cold Storage Construction &mdash; Temperature-Controlled Facilities for Food, Pharma & Logistics | MODURA
+- https://ems-prefab.com/blog/modular-construction-cost-per-square-foot/ — Modular Construction Cost Per Square Foot &mdash; 2026 Pricing Guide for Developers | MODURA Blog
+- https://ems-prefab.com/blog/modular-construction-financing-guide/ — Modular Construction Financing &mdash; Loans, Insurance & Funding Models for Developers | MODURA Blog
+- https://ems-prefab.com/blog/modular-construction-insurance-risk-management/ — Modular Construction Insurance &amp; Risk Management &mdash; How Factory-Built Projects Reduce Premiums and Liability Exposure | MODURA Blog
+- https://ems-prefab.com/blog/modular-construction-roi-developer-guide/ — Modular Construction ROI &mdash; The Developer's Guide to Faster Payback and Higher Margins | MODURA Blog
+- https://ems-prefab.com/blog/modular-data-center-construction/ — Modular Data Center Construction &mdash; Deploy Edge & Colocation Facilities 50% Faster | MODURA
+- https://ems-prefab.com/blog/modular-disaster-relief-emergency-housing/ — Modular Emergency Housing for Disaster Relief &mdash; Rapid Deployment Shelters 70% Faster | MODURA
+- https://ems-prefab.com/blog/modular-energy-efficiency-buildings/ — Modular Building Energy Efficiency &mdash; How Prefab Construction Cuts Operating Costs by 30&ndash;50% | MODURA Blog
+- https://ems-prefab.com/blog/modular-fire-safety-construction/ — Modular Construction Fire Safety &mdash; Fire-Rated Assemblies, Code Compliance &amp; Passive Protection | MODURA Blog
+- https://ems-prefab.com/blog/modular-government-municipal-buildings/ — Modular Government &amp; Municipal Buildings &mdash; Faster Public Infrastructure Delivery | MODURA
+- https://ems-prefab.com/blog/modular-healthcare-facilities-construction/ — Modular Healthcare Construction &mdash; Building Hospitals and Medical Facilities 50% Faster | MODURA Blog
+- https://ems-prefab.com/blog/modular-hospital-construction/ — Modular Hospital Construction &mdash; Building Acute Care Facilities 50% Faster with Factory-Built Modules | MODURA Blog
+- https://ems-prefab.com/blog/modular-industrial-warehouse-construction/ — Modular Industrial & Warehouse Construction &mdash; Deploy Distribution Centers 50% Faster | MODURA
+- https://ems-prefab.com/blog/modular-k12-school-construction/ — Modular K-12 School Construction &mdash; Building Classrooms 60% Faster | MODURA
+- https://ems-prefab.com/blog/modular-lab-research-facilities-construction/ — Modular Labs &amp; Research Facilities &mdash; Precision Prefabricated Environments for Life Sciences | MODURA
+- https://ems-prefab.com/blog/modular-leed-certification-construction/ — LEED Certification for Modular Construction &mdash; How Prefab Buildings Earn Green Building Credits | MODURA
+- https://ems-prefab.com/blog/modular-office-buildings-guide/ — Why Companies Choose Modular Office Buildings &mdash; Cost, Speed & Flexibility | MODURA
+- https://ems-prefab.com/blog/modular-retail-construction/ — Modular Retail Construction &mdash; How Retailers Cut Store Build Time by 40% | MODURA
+- https://ems-prefab.com/blog/modular-senior-living-facilities-guide/ — Modular Senior Living Construction &mdash; Building Assisted Living Facilities 50% Faster | MODURA Blog
+- https://ems-prefab.com/blog/modular-student-housing-guide/ — Modular Student Housing: The Complete Guide to Faster Dormitory Construction | MODURA
+- https://ems-prefab.com/blog/modular-vs-precast-concrete-construction/ — Modular vs Precast Concrete: Which Construction Method Is Right for Your Project? | MODURA Blog
+- https://ems-prefab.com/blog/modular-vs-sip-construction/ — Modular vs SIP Construction &mdash; Which Building Method Delivers Better Speed, Cost &amp; Energy Performance | MODURA Blog
+- https://ems-prefab.com/blog/modular-vs-traditional-construction/ — Modular vs. Traditional Construction: A 2026 Cost & Timeline Comparison | MODURA Blog
+- https://ems-prefab.com/blog/modular-workforce-housing-remote-projects/ — Modular Workforce Housing &mdash; Rapid Deployment for Remote Mining, Oil &amp; Gas, and Infrastructure Projects | MODURA Blog
+- https://ems-prefab.com/blog/sustainable-modular-building/ — Sustainable by Design: Why Modular is the Greenest Way to Build | MODURA Blog
+
+## Legal
+- https://ems-prefab.com/privacy/ — Privacy policy
+- https://ems-prefab.com/terms/ — Terms of service

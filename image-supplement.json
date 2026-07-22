@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "project": "MODURA",
+    "category": "modular-construction",
+    "colorPrimary": "#0F2E4C",
+    "colorAccent": "#D97E3C",
+    "style": "professional architectural photography"
+  },
+  "images": [
+    {
+      "id": "education-classroom",
+      "role": "concept-scene",
+      "page": "/industries/education/",
+      "prompt": "Bright modern modular classroom interior with flexible furniture layout, large windows for natural light, interactive display technology on wall, colorful educational environment, professional architectural photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "healthcare-module",
+      "role": "concept-scene",
+      "page": "/industries/healthcare/",
+      "prompt": "Clean modern modular healthcare room interior with clinical-grade finishes, integrated medical equipment connections in walls, seamless hygienic surfaces, bright LED lighting, professional medical architecture photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "senior-living-interior",
+      "role": "concept-scene",
+      "page": "/industries/senior-living/",
+      "prompt": "Warm accessible senior living apartment interior with wide doorways, natural daylight, safety grab rails in bathroom visible through doorway, comfortable residential design, professional architectural photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "military-barracks",
+      "role": "concept-scene",
+      "page": "/industries/military-emergency/",
+      "prompt": "Interior of modular military barracks showing organized bunk arrangement with personal storage lockers, durable functional design, clean utilitarian aesthetic, professional defense infrastructure photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "apartment-exterior",
+      "role": "product-showcase",
+      "page": "/industries/",
+      "prompt": "Modern 5-story modular apartment building with clean geometric facade and balconies, residential architecture, bright daylight, professional architectural photography, no people faces no text no logos",
+      "display": "card-thumbnail"
+    },
+    {
+      "id": "hotel-exterior",
+      "role": "product-showcase",
+      "page": "/industries/",
+      "prompt": "Modern 6-story modular hotel building with sleek contemporary facade at dusk, warm interior lighting visible, hospitality architecture, professional architectural photography, no people faces no text no logos",
+      "display": "card-thumbnail"
+    },
+    {
+      "id": "office-exterior",
+      "role": "product-showcase",
+      "page": "/industries/",
+      "prompt": "Contemporary 3-story modular office building with glass curtain wall, professional corporate architecture, clean modern design with landscaping, professional architectural photography, no people faces no text no logos",
+      "display": "card-thumbnail"
+    },
+    {
+      "id": "k12-school-campus",
+      "role": "product-showcase",
+      "page": "/industries/",
+      "prompt": "Modern modular school building campus with outdoor learning spaces and playground, colorful educational architecture, bright and welcoming atmosphere, professional architectural photography, no people faces no text no logos",
+      "display": "card-thumbnail"
+    },
+    {
+      "id": "disaster-relief-shelter",
+      "role": "product-showcase",
+      "page": "/industries/",
+      "prompt": "Modular emergency housing and military barracks units arranged in organized compound, rugged durable exterior, containerized construction, professional infrastructure photography, no people faces no text no logos",
+      "display": "card-thumbnail"
+    }
+  ]
+}

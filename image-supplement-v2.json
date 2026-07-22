@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "project": "MODURA",
+    "category": "modular-construction",
+    "colorPrimary": "#0F2E4C",
+    "colorAccent": "#D97E3C",
+    "style": "professional architectural photography, clean modern industrial, bright daylight interiors"
+  },
+  "images": [
+    {
+      "id": "shipping-hero",
+      "role": "sub-hero-bg",
+      "page": "/shipping/",
+      "prompt": "Aerial view of a logistics hub with modular building units being loaded onto flatbed trucks and shipping containers, organized dispatch yard, modern industrial logistics facility, professional B2B photography, navy and orange brand accents, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "shipping-packaging",
+      "role": "concept-scene",
+      "page": "/shipping/",
+      "prompt": "Close-up of a modular building unit wrapped in weatherproof protective packaging secured on a steel stillage frame, industrial strapping and corner protectors visible, GPS tracking device attached, ready for transport in a dispatch bay, professional industrial photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "how-it-works-hero",
+      "role": "sub-hero-bg",
+      "page": "/how-it-works/",
+      "prompt": "Modular construction project journey visualization showing the complete process from design blueprint on screen through factory production line to final building assembly on site, organized sequential workflow, professional B2B photography style, modern clean aesthetic, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "design-guides-hero",
+      "role": "sub-hero-bg",
+      "page": "/design-guides/",
+      "prompt": "Architectural design workspace with BIM building model displayed on large monitor showing modular building cross-section, engineering drawing sheets spread across desk, material sample boards, professional architecture office environment, clean organized creative workspace, no people faces no text no logos",
+      "display": "full-bleed"
+    }
+  ]
+}

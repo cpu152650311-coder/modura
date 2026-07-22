@@ -1,0 +1,7 @@
+_scripts/
+.wrangler/
+node_modules/
+.env
+*.py
+*.json
+!package.json

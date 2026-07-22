@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "project": "MODURA",
+    "category": "logo",
+    "style": "corporate logo design, professional B2B"
+  },
+  "images": [
+    {
+      "id": "logo-v1-geometric",
+      "role": "logo",
+      "page": "/",
+      "prompt": "Minimalist geometric logo mark for 'MODURA' modular construction brand, interlocking square modules forming an abstract 'M' shape, navy blue #0F2E4C with orange #D97E3C accent, clean modern corporate identity, flat design no gradients, isolated on pure white background, no shadows, clean edges, no text labels, no people, no 3D effects",
+      "display": "logo"
+    },
+    {
+      "id": "logo-v2-architectural",
+      "role": "logo",
+      "page": "/",
+      "prompt": "Architectural logo mark for 'MODURA' prefab construction company, stylized building block outline forming a structural grid pattern, deep navy blue #0F2E4C monochrome, minimal line art style, professional corporate identity, isolated on pure white background, no shadows, clean edges, no text, no people",
+      "display": "logo"
+    },
+    {
+      "id": "logo-v3-modern-m",
+      "role": "logo",
+      "page": "/",
+      "prompt": "Bold contemporary logo symbol for 'MODURA' brand, abstract letter M made of three overlapping modular panels, navy blue #0F2E4C with warm orange #D97E3C highlight on one panel, clean geometric shapes, professional construction industry identity, isolated on pure white background, no shadows, clean edges, no text, no people",
+      "display": "logo"
+    },
+    {
+      "id": "logo-v4-hexagon",
+      "role": "logo",
+      "page": "/",
+      "prompt": "Modern hexagonal logo icon for 'MODURA' modular building systems, hexagon divided into three sections representing modular connection, navy blue #0F2E4C and orange #D97E3C dual-tone, precision engineering aesthetic, clean flat design, isolated on pure white background, no shadows, clean edges, no text, no people",
+      "display": "logo"
+    }
+  ]
+}

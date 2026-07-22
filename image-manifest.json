@@ -1,0 +1,389 @@
+{
+  "factory-hero": {
+    "id": "factory-hero",
+    "file": "factory-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/factory/",
+    "display": "full-bleed",
+    "size_bytes": 177476,
+    "source": "text-to-image"
+  },
+  "factory-production-line": {
+    "id": "factory-production-line",
+    "file": "factory-production-line.webp",
+    "role": "process-flow",
+    "page": "/factory/",
+    "display": "inline-large",
+    "size_bytes": 192104,
+    "source": "text-to-image"
+  },
+  "quality-hero": {
+    "id": "quality-hero",
+    "file": "quality-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/quality/",
+    "display": "full-bleed",
+    "size_bytes": 91018,
+    "source": "text-to-image"
+  },
+  "quality-inspection": {
+    "id": "quality-inspection",
+    "file": "quality-inspection.webp",
+    "role": "concept-scene",
+    "page": "/quality/",
+    "display": "inline-large",
+    "size_bytes": 91066,
+    "source": "text-to-image"
+  },
+  "capabilities-hero": {
+    "id": "capabilities-hero",
+    "file": "capabilities-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/",
+    "display": "full-bleed",
+    "size_bytes": 131494,
+    "source": "text-to-image"
+  },
+  "systems-hero": {
+    "id": "systems-hero",
+    "file": "systems-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/systems/",
+    "display": "full-bleed",
+    "size_bytes": 147800,
+    "source": "text-to-image"
+  },
+  "system-volumetric": {
+    "id": "system-volumetric",
+    "file": "system-volumetric.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/systems/volumetric/",
+    "display": "full-bleed",
+    "size_bytes": 125294,
+    "source": "text-to-image"
+  },
+  "system-panelized": {
+    "id": "system-panelized",
+    "file": "system-panelized.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/systems/panelized/",
+    "display": "full-bleed",
+    "size_bytes": 156236,
+    "source": "text-to-image"
+  },
+  "system-hybrid": {
+    "id": "system-hybrid",
+    "file": "system-hybrid.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/systems/hybrid/",
+    "display": "full-bleed",
+    "size_bytes": 103594,
+    "source": "text-to-image"
+  },
+  "engineering-hero": {
+    "id": "engineering-hero",
+    "file": "engineering-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/engineering/",
+    "display": "full-bleed",
+    "size_bytes": 163202,
+    "source": "text-to-image"
+  },
+  "engineering-structural": {
+    "id": "engineering-structural",
+    "file": "engineering-structural.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/engineering/structural/",
+    "display": "full-bleed",
+    "size_bytes": 154054,
+    "source": "text-to-image"
+  },
+  "engineering-sustainability": {
+    "id": "engineering-sustainability",
+    "file": "engineering-sustainability.webp",
+    "role": "sub-hero-bg",
+    "page": "/capabilities/engineering/sustainability/",
+    "display": "full-bleed",
+    "size_bytes": 267626,
+    "source": "text-to-image"
+  },
+  "industries-hero": {
+    "id": "industries-hero",
+    "file": "industries-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/",
+    "display": "full-bleed",
+    "size_bytes": 156902,
+    "source": "text-to-image"
+  },
+  "healthcare-hero": {
+    "id": "healthcare-hero",
+    "file": "healthcare-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/healthcare/",
+    "display": "full-bleed",
+    "size_bytes": 69566,
+    "source": "text-to-image"
+  },
+  "education-hero": {
+    "id": "education-hero",
+    "file": "education-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/education/",
+    "display": "full-bleed",
+    "size_bytes": 236860,
+    "source": "text-to-image"
+  },
+  "senior-living-hero": {
+    "id": "senior-living-hero",
+    "file": "senior-living-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/senior-living/",
+    "display": "full-bleed",
+    "size_bytes": 191310,
+    "source": "text-to-image"
+  },
+  "military-hero": {
+    "id": "military-hero",
+    "file": "military-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/industries/military-emergency/",
+    "display": "full-bleed",
+    "size_bytes": 284678,
+    "source": "text-to-image"
+  },
+  "faq-hero": {
+    "id": "faq-hero",
+    "file": "faq-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/faq/",
+    "display": "full-bleed",
+    "size_bytes": 113240,
+    "source": "text-to-image"
+  },
+  "projects-hero": {
+    "id": "projects-hero",
+    "file": "projects-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/projects/",
+    "display": "full-bleed",
+    "size_bytes": 238902,
+    "source": "text-to-image"
+  },
+  "project-assembly-london": {
+    "id": "project-assembly-london",
+    "file": "project-assembly-london.webp",
+    "role": "concept-scene",
+    "page": "/projects/",
+    "display": "inline-large",
+    "size_bytes": 159636,
+    "source": "text-to-image"
+  },
+  "project-riverside-manchester": {
+    "id": "project-riverside-manchester",
+    "file": "project-riverside-manchester.webp",
+    "role": "concept-scene",
+    "page": "/projects/",
+    "display": "inline-large",
+    "size_bytes": 154648,
+    "source": "text-to-image"
+  },
+  "project-oslo-student": {
+    "id": "project-oslo-student",
+    "file": "project-oslo-student.webp",
+    "role": "concept-scene",
+    "page": "/projects/",
+    "display": "inline-large",
+    "size_bytes": 151536,
+    "source": "text-to-image"
+  },
+  "project-rotterdam-medical": {
+    "id": "project-rotterdam-medical",
+    "file": "project-rotterdam-medical.webp",
+    "role": "concept-scene",
+    "page": "/projects/",
+    "display": "inline-large",
+    "size_bytes": 108036,
+    "source": "text-to-image"
+  },
+  "project-phoenix-barracks": {
+    "id": "project-phoenix-barracks",
+    "file": "project-phoenix-barracks.webp",
+    "role": "concept-scene",
+    "page": "/projects/",
+    "display": "inline-large",
+    "size_bytes": 267234,
+    "source": "text-to-image"
+  },
+  "project-pacific-heights": {
+    "id": "project-pacific-heights",
+    "file": "project-pacific-heights.webp",
+    "role": "concept-scene",
+    "page": "/projects/",
+    "display": "inline-large",
+    "size_bytes": 234478,
+    "source": "text-to-image"
+  },
+  "quote-hero": {
+    "id": "quote-hero",
+    "file": "quote-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/quote/",
+    "display": "full-bleed",
+    "size_bytes": 79668,
+    "source": "text-to-image"
+  },
+  "education-classroom": {
+    "id": "education-classroom",
+    "file": "education-classroom.webp",
+    "role": "concept-scene",
+    "page": "/industries/education/",
+    "display": "inline-large",
+    "size_bytes": 144160,
+    "source": "text-to-image"
+  },
+  "healthcare-module": {
+    "id": "healthcare-module",
+    "file": "healthcare-module.webp",
+    "role": "concept-scene",
+    "page": "/industries/healthcare/",
+    "display": "inline-large",
+    "size_bytes": 67776,
+    "source": "text-to-image"
+  },
+  "senior-living-interior": {
+    "id": "senior-living-interior",
+    "file": "senior-living-interior.webp",
+    "role": "concept-scene",
+    "page": "/industries/senior-living/",
+    "display": "inline-large",
+    "size_bytes": 101002,
+    "source": "text-to-image"
+  },
+  "military-barracks": {
+    "id": "military-barracks",
+    "file": "military-barracks.webp",
+    "role": "concept-scene",
+    "page": "/industries/military-emergency/",
+    "display": "inline-large",
+    "size_bytes": 86970,
+    "source": "text-to-image"
+  },
+  "apartment-exterior": {
+    "id": "apartment-exterior",
+    "file": "apartment-exterior.webp",
+    "role": "product-showcase",
+    "page": "/industries/",
+    "display": "card-thumbnail",
+    "size_bytes": 140994,
+    "source": "text-to-image"
+  },
+  "hotel-exterior": {
+    "id": "hotel-exterior",
+    "file": "hotel-exterior.webp",
+    "role": "product-showcase",
+    "page": "/industries/",
+    "display": "card-thumbnail",
+    "size_bytes": 140556,
+    "source": "text-to-image"
+  },
+  "office-exterior": {
+    "id": "office-exterior",
+    "file": "office-exterior.webp",
+    "role": "product-showcase",
+    "page": "/industries/",
+    "display": "card-thumbnail",
+    "size_bytes": 138582,
+    "source": "text-to-image"
+  },
+  "k12-school-campus": {
+    "id": "k12-school-campus",
+    "file": "k12-school-campus.webp",
+    "role": "product-showcase",
+    "page": "/industries/",
+    "display": "card-thumbnail",
+    "size_bytes": 160512,
+    "source": "text-to-image"
+  },
+  "disaster-relief-shelter": {
+    "id": "disaster-relief-shelter",
+    "file": "disaster-relief-shelter.webp",
+    "role": "product-showcase",
+    "page": "/industries/",
+    "display": "card-thumbnail",
+    "size_bytes": 221854,
+    "source": "text-to-image"
+  },
+  "shipping-hero": {
+    "id": "shipping-hero",
+    "file": "shipping-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/shipping/",
+    "display": "full-bleed",
+    "size_bytes": 231176,
+    "source": "text-to-image"
+  },
+  "shipping-packaging": {
+    "id": "shipping-packaging",
+    "file": "shipping-packaging.webp",
+    "role": "concept-scene",
+    "page": "/shipping/",
+    "display": "inline-large",
+    "size_bytes": 99614,
+    "source": "text-to-image"
+  },
+  "how-it-works-hero": {
+    "id": "how-it-works-hero",
+    "file": "how-it-works-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/how-it-works/",
+    "display": "full-bleed",
+    "size_bytes": 150634,
+    "source": "text-to-image"
+  },
+  "design-guides-hero": {
+    "id": "design-guides-hero",
+    "file": "design-guides-hero.webp",
+    "role": "sub-hero-bg",
+    "page": "/design-guides/",
+    "display": "full-bleed",
+    "size_bytes": 134304,
+    "source": "text-to-image"
+  },
+  "logo-v1-geometric": {
+    "id": "logo-v1-geometric",
+    "file": "logo-v1-geometric.webp",
+    "role": "logo",
+    "page": "/",
+    "display": "logo",
+    "size_bytes": 6768,
+    "source": "text-to-image"
+  },
+  "logo-v2-architectural": {
+    "id": "logo-v2-architectural",
+    "file": "logo-v2-architectural.webp",
+    "role": "logo",
+    "page": "/",
+    "display": "logo",
+    "size_bytes": 15054,
+    "source": "text-to-image"
+  },
+  "logo-v3-modern-m": {
+    "id": "logo-v3-modern-m",
+    "file": "logo-v3-modern-m.webp",
+    "role": "logo",
+    "page": "/",
+    "display": "logo",
+    "size_bytes": 10074,
+    "source": "text-to-image"
+  },
+  "logo-v4-hexagon": {
+    "id": "logo-v4-hexagon",
+    "file": "logo-v4-hexagon.webp",
+    "role": "logo",
+    "page": "/",
+    "display": "logo",
+    "size_bytes": 15266,
+    "source": "text-to-image"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "images": [
+    {
+      "id": "texture-light",
+      "role": "texture-bg",
+      "page": "/",
+      "display": "bg-overlay",
+      "prompt": "Abstract subtle architectural blueprint grid texture, very light gray background with barely visible geometric lines and construction grid patterns, extremely low contrast, suitable as subtle background overlay at 15% opacity for website sections, no text, no logos, no people"
+    },
+    {
+      "id": "texture-dark",
+      "role": "texture-bg",
+      "page": "/",
+      "display": "bg-overlay",
+      "prompt": "Abstract dark architectural texture with subtle geometric patterns, navy dark background with very faint modular building structural lines and grid patterns, extremely low contrast, moody industrial atmosphere, suitable as subtle semi-transparent background overlay for dark website sections and footer, no text, no logos, no people"
+    }
+  ],
+  "meta": {}
+}

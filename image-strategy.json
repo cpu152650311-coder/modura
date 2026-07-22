@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "project": "MODURA",
+    "category": "modular-construction",
+    "colorPrimary": "#0F2E4C",
+    "colorAccent": "#D97E3C",
+    "style": "professional architectural photography, clean modern industrial, bright daylight interiors"
+  },
+  "images": [
+    {
+      "id": "factory-hero",
+      "role": "sub-hero-bg",
+      "page": "/factory/",
+      "prompt": "Wide shot of a modern modular construction factory interior, clean organized production floor with steel frame modules on assembly line, bright LED lighting, polished concrete floor, precision manufacturing environment, industrial architecture photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "factory-production-line",
+      "role": "process-flow",
+      "page": "/factory/",
+      "prompt": "Modular building steel frame modules progressing through assembly stations in a factory, robotic welding arms, laser-guided positioning jigs, climate-controlled clean manufacturing environment, professional industrial photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "quality-hero",
+      "role": "sub-hero-bg",
+      "page": "/quality/",
+      "prompt": "Quality control inspection station for modular building components, laser measurement scanning equipment checking a steel frame module, precision instruments, clean laboratory-like environment with calibration charts on wall, professional technical photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "quality-inspection",
+      "role": "concept-scene",
+      "page": "/quality/",
+      "prompt": "Close-up of laser dimensional scanning on a modular building panel, 3D laser grid visible on the surface, precision measurement equipment, clean modern factory quality control environment, blue and white color scheme with orange measurement markers, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "capabilities-hero",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/",
+      "prompt": "Overview of a modular construction engineering workspace, BIM digital twin model displayed on large screen showing a multi-story modular building cross-section, engineering drawings on desk, modern architectural office, professional photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "systems-hero",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/systems/",
+      "prompt": "Three different modular building systems displayed side by side in a factory setting, volumetric 3D module next to panelized 2D wall panels next to hybrid combination, showcasing construction methods, clean industrial environment, professional architectural photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "system-volumetric",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/systems/volumetric/",
+      "prompt": "A fully completed 3D volumetric modular building unit with finished interior visible through open side, bathroom fixtures kitchen cabinetry and lighting all pre-installed, sitting on factory floor ready for transport, professional architectural photography, modern clean aesthetic, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "system-panelized",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/systems/panelized/",
+      "prompt": "Stack of 2D flat-pack modular wall panels and floor cassettes in a factory, showing layered construction materials, insulation visible at edges, organized storage ready for flat-pack shipping, clean industrial setting, professional architectural photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "system-hybrid",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/systems/hybrid/",
+      "prompt": "Hybrid modular construction project showing volumetric bathroom pod module installed alongside panelized wall sections on a building site, crane lifting a completed pod into position, demonstrating the mix of 3D and 2D systems, professional construction photography, bright daylight, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "engineering-hero",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/engineering/",
+      "prompt": "Engineering design workspace for modular construction, structural analysis software on multiple monitors showing a modular tower finite element model with color-coded stress patterns, BIM coordination model, engineering reference books, professional technical photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "engineering-structural",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/engineering/structural/",
+      "prompt": "Cold-formed steel frame structure of a modular building unit exposed showing structural engineering details, bolted connections, diagonal bracing, galvanized steel finish, systematic structural grid pattern, professional engineering photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "engineering-sustainability",
+      "role": "sub-hero-bg",
+      "page": "/capabilities/engineering/sustainability/",
+      "prompt": "Sustainable modular building with green living roof and solar panels, cross-laminated timber elements visible, surrounded by nature, daylight streaming through large windows, eco-friendly construction materials palette, architectural photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "industries-hero",
+      "role": "sub-hero-bg",
+      "page": "/industries/",
+      "prompt": "Collage-style composition showing diverse modular building types, apartment building facade hotel exterior office building and healthcare facility, all with modern architectural design, professional architectural photography composite, clean aesthetic, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "healthcare-hero",
+      "role": "sub-hero-bg",
+      "page": "/industries/healthcare/",
+      "prompt": "Modern modular healthcare facility interior, clean bright clinical room with medical equipment connections visible in walls, seamless hygienic surfaces, LED surgical lighting, professional healthcare architecture photography, sterile environment, white and light blue tones, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "education-hero",
+      "role": "sub-hero-bg",
+      "page": "/industries/education/",
+      "prompt": "Modern modular school building exterior with large windows for natural light, colorful facade panels in educational colors, landscaped outdoor learning space, contemporary educational architecture, bright and welcoming atmosphere, professional architectural photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "senior-living-hero",
+      "role": "sub-hero-bg",
+      "page": "/industries/senior-living/",
+      "prompt": "Warm and inviting modular senior living community building, accessible design features visible including wide entrance ramps and handrails, landscaped garden courtyard, residential architectural style with warm wood and stone materials, professional architectural photography, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "military-hero",
+      "role": "sub-hero-bg",
+      "page": "/industries/military-emergency/",
+      "prompt": "Modular military barracks buildings in a desert environment, rugged containerized construction units arranged in organized compound layout, durable exterior with earth-tone colors, solar panels on roofs, professional defense infrastructure photography, dramatic sky, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "faq-hero",
+      "role": "sub-hero-bg",
+      "page": "/faq/",
+      "prompt": "Modern modular building information center or showroom, product displays showing construction methods and material samples, digital interactive screens, clean organized knowledge-sharing environment, professional architectural photography, navy and white color scheme, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "projects-hero",
+      "role": "sub-hero-bg",
+      "page": "/projects/",
+      "prompt": "Aerial view of a completed multi-story modular apartment building with modern facade design, balcony details, surrounding urban context visible, showcasing finished modular construction at scale, professional architectural photography, bright daylight, no people faces no text no logos",
+      "display": "full-bleed"
+    },
+    {
+      "id": "project-assembly-london",
+      "role": "concept-scene",
+      "page": "/projects/",
+      "prompt": "Modern high-rise modular apartment tower approximately 26 storeys tall with contemporary glass and metal facade, urban London setting with overcast sky, completed luxury residential building, professional architectural photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "project-riverside-manchester",
+      "role": "concept-scene",
+      "page": "/projects/",
+      "prompt": "Contemporary modular hotel building approximately 14 storeys with ground floor restaurant visible through glass facade, modern hospitality architecture, urban riverside setting, warm lighting from interior, dusk ambiance, professional architectural photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "project-oslo-student",
+      "role": "concept-scene",
+      "page": "/projects/",
+      "prompt": "Collection of modern modular student housing buildings in a Scandinavian landscape, timber and metal facade materials, snow on ground, northern European winter setting, clean minimalist Nordic architecture style, professional architectural photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "project-rotterdam-medical",
+      "role": "concept-scene",
+      "page": "/projects/",
+      "prompt": "Modern modular medical facility extension attached to existing hospital building, clean white and glass facade, seamless connection between old and new architecture, European healthcare setting, professional architectural photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "project-phoenix-barracks",
+      "role": "concept-scene",
+      "page": "/projects/",
+      "prompt": "Modular military camp compound in desert environment, rows of containerized barracks buildings with solar panel arrays and satellite communication equipment, perimeter security visible, arid landscape, professional defense infrastructure photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "project-pacific-heights",
+      "role": "concept-scene",
+      "page": "/projects/",
+      "prompt": "Mid-rise modular senior living community building with contemporary California architectural style, warm stucco and wood exterior, accessible balconies on every unit, palm trees and landscaped gardens, sunny California setting, professional architectural photography, no people faces no text no logos",
+      "display": "inline-large"
+    },
+    {
+      "id": "quote-hero",
+      "role": "sub-hero-bg",
+      "page": "/quote/",
+      "prompt": "Professional business meeting environment with architectural project documents, modular building scale model on table, material sample boards, laptop showing project rendering, clean modern office setting, professional B2B photography, no people faces no text no logos",
+      "display": "full-bleed"
+    }
+  ]
+}
