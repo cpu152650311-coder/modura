@@ -1,0 +1,66 @@
+{
+  "site": "modura",
+  "updated": "2026-07-24",
+  "topics": [
+    {
+      "id": 42,
+      "title": "Modular Medical Clinics & Outpatient Surgery Centers",
+      "status": "published",
+      "score": 82,
+      "funnel": "MOFU",
+      "file": "/blog/modular-medical-clinics-outpatient-construction.html",
+      "created": "2026-07-24",
+      "published": "2026-07-24"
+    },
+    {
+      "id": 43,
+      "title": "Modular University Buildings & Academic Facilities",
+      "status": "published",
+      "score": 78,
+      "funnel": "BOFU",
+      "file": "/blog/modular-university-academic-buildings-construction.html",
+      "created": "2026-07-24",
+      "published": "2026-07-24"
+    },
+    {
+      "id": 44,
+      "title": "Modular Construction Factory QA/QC Systems",
+      "status": "published",
+      "score": 85,
+      "funnel": "MOFU",
+      "file": "/blog/modular-construction-factory-qc-systems.html",
+      "created": "2026-07-24",
+      "published": "2026-07-24"
+    },
+    {
+      "id": 45,
+      "title": "Modular Hospital Construction Cost Breakdown",
+      "status": "published",
+      "score": 82,
+      "funnel": "BOFU",
+      "file": "/blog/modular-hospital-construction-cost-breakdown.html",
+      "created": "2026-07-24",
+      "published": "2026-07-24"
+    },
+    {
+      "id": 46,
+      "title": "Modular Data Center TCO Build vs Buy",
+      "status": "published",
+      "score": 78,
+      "funnel": "BOFU",
+      "file": "/blog/modular-data-center-tco-build-vs-buy.html",
+      "created": "2026-07-24",
+      "published": "2026-07-24"
+    },
+    {
+      "id": 47,
+      "title": "Modular Construction Permitting & Zoning Guide",
+      "status": "published",
+      "score": 75,
+      "funnel": "MOFU",
+      "file": "/blog/modular-construction-permitting-zoning-guide.html",
+      "created": "2026-07-24",
+      "published": "2026-07-24"
+    }
+  ]
+}
