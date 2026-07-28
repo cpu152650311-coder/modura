@@ -1,6 +1,6 @@
 {
   "site": "modura",
-  "updated": "2026-07-24",
+  "updated": "2026-07-29",
   "topics": [
     {
       "id": 42,
@@ -61,6 +61,36 @@
       "file": "/blog/modular-construction-permitting-zoning-guide.html",
       "created": "2026-07-24",
       "published": "2026-07-24"
+    },
+    {
+      "id": 48,
+      "title": "Modular Edge Data Centers \u2014 Micro Data Centers at the Network Edge",
+      "status": "published",
+      "score": 80,
+      "funnel": "MOFU",
+      "file": "/blog/modular-edge-data-centers-micro-modular.html",
+      "created": "2026-07-29",
+      "published": "2026-07-29"
+    },
+    {
+      "id": 49,
+      "title": "Modular Tourism & Eco-Lodge Construction",
+      "status": "published",
+      "score": 75,
+      "funnel": "MOFU",
+      "file": "/blog/modular-tourism-eco-lodge-construction.html",
+      "created": "2026-07-29",
+      "published": "2026-07-29"
+    },
+    {
+      "id": 50,
+      "title": "Modular Smart Building Technology \u2014 IoT, BMS & Digital Twins",
+      "status": "published",
+      "score": 78,
+      "funnel": "TOFU",
+      "file": "/blog/modular-smart-building-technology.html",
+      "created": "2026-07-29",
+      "published": "2026-07-29"
     }
   ]
 }
