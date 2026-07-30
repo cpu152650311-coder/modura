@@ -876,4 +876,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://ems-prefab.com/blog/modular-diagnostic-imaging-radiology-centers/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ems-prefab.com/blog/modular-construction-project-risk-reduction/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ems-prefab.com/blog/modular-community-health-centers-fqhc/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
 </urlset>
