@@ -141,6 +141,36 @@
       "file": "/blog/modular-pet-boarding-dog-daycare.html",
       "created": "2026-08-01",
       "published": "2026-08-01"
+    },
+    {
+      "id": 56,
+      "title": "Modular Substations & Electrical Switchgear Buildings — Factory-Built Power Infrastructure 40% Faster",
+      "status": "published",
+      "score": 84,
+      "funnel": "BOFU",
+      "file": "/blog/modular-substations-electrical-switchgear-buildings.html",
+      "created": "2026-08-01",
+      "published": "2026-08-01"
+    },
+    {
+      "id": 57,
+      "title": "Modular Equestrian Facilities & Horse Barns — Prefab Stables, Indoor Arenas & Boarding Centers",
+      "status": "published",
+      "score": 82,
+      "funnel": "MOFU",
+      "file": "/blog/modular-equestrian-facilities-horse-barns.html",
+      "created": "2026-08-01",
+      "published": "2026-08-01"
+    },
+    {
+      "id": 58,
+      "title": "Modular Shooting Ranges & Indoor Gun Range Construction — Factory-Built Ballistic Facilities",
+      "status": "published",
+      "score": 80,
+      "funnel": "MOFU",
+      "file": "/blog/modular-shooting-ranges-indoor-gun-range-facilities.html",
+      "created": "2026-08-01",
+      "published": "2026-08-01"
     }
   ]
 }
