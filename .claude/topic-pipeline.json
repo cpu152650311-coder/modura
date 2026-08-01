@@ -1,6 +1,6 @@
 {
   "site": "modura",
-  "updated": "2026-07-30",
+  "updated": "2026-08-01",
   "topics": [
     {
       "id": 42,
@@ -64,7 +64,7 @@
     },
     {
       "id": 48,
-      "title": "Modular Edge Data Centers \u2014 Micro Data Centers at the Network Edge",
+      "title": "Modular Edge Data Centers — Micro Data Centers at the Network Edge",
       "status": "published",
       "score": 80,
       "funnel": "MOFU",
@@ -84,7 +84,7 @@
     },
     {
       "id": 50,
-      "title": "Modular Smart Building Technology \u2014 IoT, BMS & Digital Twins",
+      "title": "Modular Smart Building Technology — IoT, BMS & Digital Twins",
       "status": "published",
       "score": 78,
       "funnel": "TOFU",
@@ -111,6 +111,36 @@
       "file": "/blog/modular-construction-crane-equipment-logistics.html",
       "created": "2026-07-29",
       "published": "2026-07-30"
+    },
+    {
+      "id": 53,
+      "title": "Modular ADU Construction — Prefab Accessory Dwelling Units in 12–16 Weeks",
+      "status": "published",
+      "score": 82,
+      "funnel": "BOFU",
+      "file": "/blog/modular-adu-accessory-dwelling-units.html",
+      "created": "2026-08-01",
+      "published": "2026-08-01"
+    },
+    {
+      "id": 54,
+      "title": "Wildfire-Resistant Modular Construction — Steel-Frame Buildings for WUI Zones",
+      "status": "published",
+      "score": 78,
+      "funnel": "MOFU",
+      "file": "/blog/modular-wildfire-resistant-construction.html",
+      "created": "2026-08-01",
+      "published": "2026-08-01"
+    },
+    {
+      "id": 55,
+      "title": "Modular Pet Boarding & Dog Daycare Construction — Turnkey Pet Care Facilities",
+      "status": "published",
+      "score": 75,
+      "funnel": "MOFU",
+      "file": "/blog/modular-pet-boarding-dog-daycare.html",
+      "created": "2026-08-01",
+      "published": "2026-08-01"
     }
   ]
 }
