@@ -201,6 +201,36 @@
       "file": "/blog/modular-rail-light-rail-transit-stations.html",
       "created": "2026-08-02",
       "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+    },
+    {
+      "id": 62,
+      "title": "Modular Ice Rink Construction — Factory-Built Ice Arenas & Winter Sports Facilities",
+      "status": "queued",
+      "score": 78,
+      "funnel": "MOFU",
+      "file": "/blog/modular-ice-rink-construction.html",
+      "created": "2026-08-02",
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+    },
+    {
+      "id": 63,
+      "title": "Modular Contact Center Construction — Factory-Built Call Center Buildings & BPO Facilities",
+      "status": "queued",
+      "score": 80,
+      "funnel": "MOFU",
+      "file": "/blog/modular-contact-center-construction.html",
+      "created": "2026-08-02",
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+    },
+    {
+      "id": 64,
+      "title": "Modular Food Hall Construction — Factory-Built Food Halls & Culinary Markets",
+      "status": "queued",
+      "score": 79,
+      "funnel": "MOFU",
+      "file": "/blog/modular-food-hall-construction.html",
+      "created": "2026-08-02",
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
     }
   ]
 }
