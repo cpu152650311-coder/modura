@@ -1,6 +1,6 @@
 {
   "site": "modura",
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "topics": [
     {
       "id": 42,
@@ -175,92 +175,131 @@
     {
       "id": 59,
       "title": "Modular Casino & Gaming Facility Construction — Build Entertainment Venues 40% Faster with Factory-Built Modules",
-      "status": "queued",
+      "status": "published",
       "score": 82,
       "funnel": "BOFU",
       "file": "/blog/modular-casino-gaming-facility-construction.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
     },
     {
       "id": 60,
       "title": "Modular E-Commerce Fulfillment Centers & Warehouse Automation — Build Distribution Facilities 40% Faster",
-      "status": "queued",
+      "status": "published",
       "score": 84,
       "funnel": "BOFU",
       "file": "/blog/modular-ecommerce-fulfillment-center-construction.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
     },
     {
       "id": 61,
       "title": "Modular Rail & Light Rail Transit Stations — Deploy Platform Buildings & Transit Hubs 40% Faster",
-      "status": "queued",
+      "status": "published",
       "score": 80,
       "funnel": "MOFU",
       "file": "/blog/modular-rail-light-rail-transit-stations.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
     },
     {
       "id": 62,
       "title": "Modular Ice Rink Construction — Factory-Built Ice Arenas & Winter Sports Facilities",
-      "status": "queued",
+      "status": "published",
       "score": 78,
       "funnel": "MOFU",
       "file": "/blog/modular-ice-rink-construction.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
     },
     {
       "id": 63,
       "title": "Modular Contact Center Construction — Factory-Built Call Center Buildings & BPO Facilities",
-      "status": "queued",
+      "status": "published",
       "score": 80,
       "funnel": "MOFU",
       "file": "/blog/modular-contact-center-construction.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
     },
     {
       "id": 64,
       "title": "Modular Food Hall Construction — Factory-Built Food Halls & Culinary Markets",
-      "status": "queued",
+      "status": "published",
       "score": 79,
       "funnel": "MOFU",
       "file": "/blog/modular-food-hall-construction.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
     },
     {
       "id": 65,
       "title": "Modular Esports Arenas & Gaming Venues — Factory-Built Competitive Gaming Venues & Arena Buildings",
-      "status": "queued",
+      "status": "published",
       "score": 80,
       "funnel": "MOFU",
       "file": "/blog/modular-esports-arenas-gaming-venues.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
     },
     {
       "id": 66,
       "title": "Modular Eye Care & Ophthalmology Clinics — Factory-Built Ophthalmology & Optometry Buildings",
-      "status": "queued",
+      "status": "published",
       "score": 78,
       "funnel": "MOFU",
       "file": "/blog/modular-eye-care-ophthalmology-clinics.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
     },
     {
       "id": 67,
       "title": "Modular Embassy & Consulate Buildings — Factory-Built Diplomatic Facilities & Secure Compounds",
-      "status": "queued",
+      "status": "published",
       "score": 74,
       "funnel": "BOFU",
       "file": "/blog/modular-embassy-consulate-buildings.html",
       "created": "2026-08-02",
-      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 68,
+      "title": "Modular Oilfield & Energy Infrastructure — Well Pads, Pump Stations & Remote Facilities",
+      "status": "published",
+      "score": 82,
+      "funnel": "MOFU",
+      "file": "/blog/modular-oilfield-energy-infrastructure.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 69,
+      "title": "Modular Power Generation & CHP Plants — Gas Turbine Enclosures & Peaker Plants",
+      "status": "published",
+      "score": 78,
+      "funnel": "MOFU",
+      "file": "/blog/modular-power-generation-chp-plants.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 70,
+      "title": "Modular Waste-to-Energy Facilities — EFW Plants & Resource Recovery Infrastructure",
+      "status": "published",
+      "score": 74,
+      "funnel": "MOFU",
+      "file": "/blog/modular-waste-to-energy-facilities.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
     }
   ]
 }
