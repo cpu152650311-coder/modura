@@ -231,6 +231,36 @@
       "file": "/blog/modular-food-hall-construction.html",
       "created": "2026-08-02",
       "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+    },
+    {
+      "id": 65,
+      "title": "Modular Esports Arenas & Gaming Venues — Factory-Built Competitive Gaming Venues & Arena Buildings",
+      "status": "queued",
+      "score": 80,
+      "funnel": "MOFU",
+      "file": "/blog/modular-esports-arenas-gaming-venues.html",
+      "created": "2026-08-02",
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+    },
+    {
+      "id": 66,
+      "title": "Modular Eye Care & Ophthalmology Clinics — Factory-Built Ophthalmology & Optometry Buildings",
+      "status": "queued",
+      "score": 78,
+      "funnel": "MOFU",
+      "file": "/blog/modular-eye-care-ophthalmology-clinics.html",
+      "created": "2026-08-02",
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
+    },
+    {
+      "id": 67,
+      "title": "Modular Embassy & Consulate Buildings — Factory-Built Diplomatic Facilities & Secure Compounds",
+      "status": "queued",
+      "score": 74,
+      "funnel": "BOFU",
+      "file": "/blog/modular-embassy-consulate-buildings.html",
+      "created": "2026-08-02",
+      "note": "BACKUP: ~/hermes-tmp/modura-blog-2026-08-02/ (image quota exhausted 2026-08-02, regenerate images + deploy, no rewrite needed)"
     }
   ]
 }
