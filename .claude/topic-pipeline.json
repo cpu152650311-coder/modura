@@ -300,6 +300,36 @@
       "file": "/blog/modular-waste-to-energy-facilities.html",
       "created": "2026-08-03",
       "published": "2026-08-03"
+    },
+    {
+      "id": 71,
+      "title": "Modular Cannabis Cultivation Facilities — Factory-Built Grow Rooms & Cultivation Buildings",
+      "status": "published",
+      "score": 84,
+      "funnel": "MOFU",
+      "file": "/blog/modular-cannabis-cultivation-facilities.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 72,
+      "title": "Modular Movie Theaters & Cinema Venues — Factory-Built Auditoriums & Multiplex Buildings",
+      "status": "published",
+      "score": 80,
+      "funnel": "BOFU",
+      "file": "/blog/modular-movie-theaters-cinema-venues.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 73,
+      "title": "Modular Heliports & VTA Facilities — Factory-Built Helipad Buildings & Vertiports",
+      "status": "published",
+      "score": 78,
+      "funnel": "MOFU",
+      "file": "/blog/modular-heliports-vta-facilities.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
     }
   ]
 }
