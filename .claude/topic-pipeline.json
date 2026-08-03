@@ -390,6 +390,36 @@
       "file": "/blog/modular-pharmacy-drugstore-construction.html",
       "created": "2026-08-03",
       "published": "2026-08-03"
+    },
+    {
+      "id": 80,
+      "title": "Modular Construction Scheduling — Factory Production Slots, Critical Path Planning & On-Time Delivery",
+      "status": "published",
+      "score": 74,
+      "funnel": "MOFU",
+      "file": "/blog/modular-construction-scheduling-guide.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 81,
+      "title": "Modular Fertility Clinics & IVF Centers — Embryology Labs, Procedure Suites & Recovery Areas",
+      "status": "published",
+      "score": 72,
+      "funnel": "MOFU",
+      "file": "/blog/modular-fertility-clinics-ivf-centers.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 82,
+      "title": "Modular Salt Storage & Winter Maintenance Buildings — Salt Domes, Brine Facilities & Equipment Shelters",
+      "status": "published",
+      "score": 70,
+      "funnel": "BOFU",
+      "file": "/blog/modular-salt-storage-winter-maintenance-buildings.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
     }
   ]
 }
