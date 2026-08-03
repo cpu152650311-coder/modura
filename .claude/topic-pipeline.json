@@ -330,6 +330,36 @@
       "file": "/blog/modular-heliports-vta-facilities.html",
       "created": "2026-08-03",
       "published": "2026-08-03"
+    },
+    {
+      "id": 74,
+      "title": "Modular Truck Stops & Travel Plazas — Factory-Built Truck Stop Buildings, Convenience Stores & Rest Areas",
+      "status": "published",
+      "score": 74,
+      "funnel": "MOFU",
+      "file": "/blog/modular-truck-stops-travel-plazas.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 75,
+      "title": "Modular Weigh Stations & Scale Houses — Factory-Built Truck Scale Buildings & DOT Inspection Facilities",
+      "status": "published",
+      "score": 72,
+      "funnel": "BOFU",
+      "file": "/blog/modular-weigh-stations-scale-houses.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    {
+      "id": 76,
+      "title": "Modular Radiation Therapy & Oncology Centers — Factory-Built LINAC Bunkers & Cancer Treatment Facilities",
+      "status": "published",
+      "score": 76,
+      "funnel": "MOFU",
+      "file": "/blog/modular-radiation-therapy-oncology-centers.html",
+      "created": "2026-08-03",
+      "published": "2026-08-03"
     }
   ]
 }
