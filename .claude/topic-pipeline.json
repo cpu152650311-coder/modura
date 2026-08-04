@@ -480,6 +480,39 @@
       "file": "/blog/modular-greenhouse-construction.html",
       "created": "2026-08-04",
       "published": "2026-08-04"
+    },
+    {
+      "id": 86,
+      "title": "Modular Aircraft Hangar Construction — T-Hangars, Corporate & MRO Facilities",
+      "status": "published",
+      "score": 82,
+      "funnel": "BOFU",
+      "file": "/blog/modular-aircraft-hangars-construction.html",
+      "created": "2026-08-04",
+      "published": "2026-08-04",
+      "note": "GSC-driven: airport hangar construction pos 83.5; aviation article covers hangars in 1 H2 only"
+    },
+    {
+      "id": 87,
+      "title": "Modular Ski Lodge Construction — Mountain Resort Base Lodges & Employee Housing",
+      "status": "published",
+      "score": 78,
+      "funnel": "MOFU",
+      "file": "/blog/modular-ski-lodges-mountain-resorts.html",
+      "created": "2026-08-04",
+      "published": "2026-08-04",
+      "note": "0-hit gap (eco-lodge article is remote sustainable tourism, distinct)"
+    },
+    {
+      "id": 88,
+      "title": "Modular Aquarium & Marine Park Construction — Life-Support-Ready Public Aquariums",
+      "status": "published",
+      "score": 76,
+      "funnel": "MOFU",
+      "file": "/blog/modular-aquarium-marine-park-construction.html",
+      "created": "2026-08-04",
+      "published": "2026-08-04",
+      "note": "0-hit gap; life-support mechanical core angle"
     }
   ]
 }
