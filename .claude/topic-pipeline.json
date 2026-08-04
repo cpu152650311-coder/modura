@@ -1,6 +1,6 @@
 {
   "site": "modura",
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "topics": [
     {
       "id": 42,
@@ -513,6 +513,36 @@
       "created": "2026-08-04",
       "published": "2026-08-04",
       "note": "0-hit gap; life-support mechanical core angle"
+    },
+    {
+      "id": 89,
+      "title": "Modular Observatory Buildings — Precision Enclosures & Support Facilities for Astronomy",
+      "status": "published",
+      "score": 74,
+      "funnel": "BOFU",
+      "file": "/blog/modular-observatory-buildings.html",
+      "created": "2026-08-05",
+      "published": "2026-08-05"
+    },
+    {
+      "id": 90,
+      "title": "Modular Botanical Gardens & Conservatories — Climate-Controlled Plant Halls",
+      "status": "published",
+      "score": 72,
+      "funnel": "MOFU",
+      "file": "/blog/modular-botanical-gardens-conservatories.html",
+      "created": "2026-08-05",
+      "published": "2026-08-05"
+    },
+    {
+      "id": 91,
+      "title": "Modular Aquaculture Facilities — RAS Hatcheries & Fish Farms",
+      "status": "published",
+      "score": 78,
+      "funnel": "BOFU",
+      "file": "/blog/modular-aquaculture-fish-farm-facilities.html",
+      "created": "2026-08-05",
+      "published": "2026-08-05"
     }
   ]
 }
