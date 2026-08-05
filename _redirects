@@ -1,2 +1,4 @@
 # Legacy blog list page → canonical paginated list (v6.28 standard)
 /blog.html /blog/ 301
+# Clean URL /blog (no slash) → directory index /blog/ (serves blog/index.html)
+/blog /blog/ 301
