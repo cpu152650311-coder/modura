@@ -1,6 +1,6 @@
 {
   "site": "modura",
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "topics": [
     {
       "id": 42,
@@ -543,6 +543,36 @@
       "file": "/blog/modular-aquaculture-fish-farm-facilities.html",
       "created": "2026-08-05",
       "published": "2026-08-05"
+    },
+    {
+      "id": 92,
+      "title": "Modular Dental Clinics & Oral Surgery Centers — Medical-Grade Prefab Buildings for Growing Practices",
+      "status": "published",
+      "score": 78,
+      "funnel": "BOFU",
+      "file": "/blog/modular-dental-clinics-construction.html",
+      "created": "2026-08-06",
+      "published": "2026-08-06"
+    },
+    {
+      "id": 93,
+      "title": "Modular Skilled Nursing Facilities — Medicare-Certified Prefab Buildings for Post-Acute Care",
+      "status": "published",
+      "score": 81,
+      "funnel": "BOFU",
+      "file": "/blog/modular-skilled-nursing-facilities.html",
+      "created": "2026-08-06",
+      "published": "2026-08-06"
+    },
+    {
+      "id": 94,
+      "title": "Modular Offshore Platforms & Marine Support Buildings — Blast-Resistant Prefab Quarters for Energy Operations",
+      "status": "published",
+      "score": 74,
+      "funnel": "MOFU",
+      "file": "/blog/modular-offshore-marine-platforms.html",
+      "created": "2026-08-06",
+      "published": "2026-08-06"
     }
   ]
 }
