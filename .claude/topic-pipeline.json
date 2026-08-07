@@ -603,6 +603,39 @@
       "file": "/blog/modular-toll-plazas-toll-booths.html",
       "created": "2026-08-07",
       "published": "2026-08-07"
+    },
+    {
+      "id": 98,
+      "title": "Modular Plasma & Blood Donation Centers — Turnkey Donor Facilities for Plasma Collection Networks",
+      "status": "published",
+      "score": 84,
+      "funnel": "BOFU",
+      "file": "/blog/modular-plasma-blood-donation-centers.html",
+      "created": "2026-08-08",
+      "note": "Healthcare BOFU; plasma center 0 hits, blood collection 0, donation 0",
+      "published": "2026-08-08"
+    },
+    {
+      "id": 99,
+      "title": "Modular Theme Parks & Amusement Facilities — Factory-Built Venue Buildings for Attraction Owners",
+      "status": "published",
+      "score": 82,
+      "funnel": "BOFU",
+      "file": "/blog/modular-theme-parks-amusement-facilities.html",
+      "created": "2026-08-08",
+      "note": "Commercial BOFU; theme park 0, amusement 0, roller coaster 0",
+      "published": "2026-08-08"
+    },
+    {
+      "id": 100,
+      "title": "Modular Science Centers & Planetariums — Precision Enclosures for Interactive Education Venues",
+      "status": "published",
+      "score": 79,
+      "funnel": "MOFU",
+      "file": "/blog/modular-science-centers-planetariums.html",
+      "created": "2026-08-08",
+      "note": "Education MOFU; science center 0, science museum 0, planetarium 1 passing mention in observatory",
+      "published": "2026-08-08"
     }
   ]
 }
