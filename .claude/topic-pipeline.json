@@ -1,6 +1,6 @@
 {
   "site": "modura",
-  "updated": "2026-08-07",
+  "updated": "2026-08-09",
   "topics": [
     {
       "id": 42,
@@ -64,7 +64,7 @@
     },
     {
       "id": 48,
-      "title": "Modular Edge Data Centers — Micro Data Centers at the Network Edge",
+      "title": "Modular Edge Data Centers \u2014 Micro Data Centers at the Network Edge",
       "status": "published",
       "score": 80,
       "funnel": "MOFU",
@@ -84,7 +84,7 @@
     },
     {
       "id": 50,
-      "title": "Modular Smart Building Technology — IoT, BMS & Digital Twins",
+      "title": "Modular Smart Building Technology \u2014 IoT, BMS & Digital Twins",
       "status": "published",
       "score": 78,
       "funnel": "TOFU",
@@ -114,7 +114,7 @@
     },
     {
       "id": 53,
-      "title": "Modular ADU Construction — Prefab Accessory Dwelling Units in 12–16 Weeks",
+      "title": "Modular ADU Construction \u2014 Prefab Accessory Dwelling Units in 12\u201316 Weeks",
       "status": "published",
       "score": 82,
       "funnel": "BOFU",
@@ -124,7 +124,7 @@
     },
     {
       "id": 54,
-      "title": "Wildfire-Resistant Modular Construction — Steel-Frame Buildings for WUI Zones",
+      "title": "Wildfire-Resistant Modular Construction \u2014 Steel-Frame Buildings for WUI Zones",
       "status": "published",
       "score": 78,
       "funnel": "MOFU",
@@ -134,7 +134,7 @@
     },
     {
       "id": 55,
-      "title": "Modular Pet Boarding & Dog Daycare Construction — Turnkey Pet Care Facilities",
+      "title": "Modular Pet Boarding & Dog Daycare Construction \u2014 Turnkey Pet Care Facilities",
       "status": "published",
       "score": 75,
       "funnel": "MOFU",
@@ -144,7 +144,7 @@
     },
     {
       "id": 56,
-      "title": "Modular Substations & Electrical Switchgear Buildings — Factory-Built Power Infrastructure 40% Faster",
+      "title": "Modular Substations & Electrical Switchgear Buildings \u2014 Factory-Built Power Infrastructure 40% Faster",
       "status": "published",
       "score": 84,
       "funnel": "BOFU",
@@ -154,7 +154,7 @@
     },
     {
       "id": 57,
-      "title": "Modular Equestrian Facilities & Horse Barns — Prefab Stables, Indoor Arenas & Boarding Centers",
+      "title": "Modular Equestrian Facilities & Horse Barns \u2014 Prefab Stables, Indoor Arenas & Boarding Centers",
       "status": "published",
       "score": 82,
       "funnel": "MOFU",
@@ -164,7 +164,7 @@
     },
     {
       "id": 58,
-      "title": "Modular Shooting Ranges & Indoor Gun Range Construction — Factory-Built Ballistic Facilities",
+      "title": "Modular Shooting Ranges & Indoor Gun Range Construction \u2014 Factory-Built Ballistic Facilities",
       "status": "published",
       "score": 80,
       "funnel": "MOFU",
@@ -174,7 +174,7 @@
     },
     {
       "id": 59,
-      "title": "Modular Casino & Gaming Facility Construction — Build Entertainment Venues 40% Faster with Factory-Built Modules",
+      "title": "Modular Casino & Gaming Facility Construction \u2014 Build Entertainment Venues 40% Faster with Factory-Built Modules",
       "status": "published",
       "score": 82,
       "funnel": "BOFU",
@@ -185,7 +185,7 @@
     },
     {
       "id": 60,
-      "title": "Modular E-Commerce Fulfillment Centers & Warehouse Automation — Build Distribution Facilities 40% Faster",
+      "title": "Modular E-Commerce Fulfillment Centers & Warehouse Automation \u2014 Build Distribution Facilities 40% Faster",
       "status": "published",
       "score": 84,
       "funnel": "BOFU",
@@ -196,7 +196,7 @@
     },
     {
       "id": 61,
-      "title": "Modular Rail & Light Rail Transit Stations — Deploy Platform Buildings & Transit Hubs 40% Faster",
+      "title": "Modular Rail & Light Rail Transit Stations \u2014 Deploy Platform Buildings & Transit Hubs 40% Faster",
       "status": "published",
       "score": 80,
       "funnel": "MOFU",
@@ -207,7 +207,7 @@
     },
     {
       "id": 62,
-      "title": "Modular Ice Rink Construction — Factory-Built Ice Arenas & Winter Sports Facilities",
+      "title": "Modular Ice Rink Construction \u2014 Factory-Built Ice Arenas & Winter Sports Facilities",
       "status": "published",
       "score": 78,
       "funnel": "MOFU",
@@ -218,7 +218,7 @@
     },
     {
       "id": 63,
-      "title": "Modular Contact Center Construction — Factory-Built Call Center Buildings & BPO Facilities",
+      "title": "Modular Contact Center Construction \u2014 Factory-Built Call Center Buildings & BPO Facilities",
       "status": "published",
       "score": 80,
       "funnel": "MOFU",
@@ -229,7 +229,7 @@
     },
     {
       "id": 64,
-      "title": "Modular Food Hall Construction — Factory-Built Food Halls & Culinary Markets",
+      "title": "Modular Food Hall Construction \u2014 Factory-Built Food Halls & Culinary Markets",
       "status": "published",
       "score": 79,
       "funnel": "MOFU",
@@ -240,7 +240,7 @@
     },
     {
       "id": 65,
-      "title": "Modular Esports Arenas & Gaming Venues — Factory-Built Competitive Gaming Venues & Arena Buildings",
+      "title": "Modular Esports Arenas & Gaming Venues \u2014 Factory-Built Competitive Gaming Venues & Arena Buildings",
       "status": "published",
       "score": 80,
       "funnel": "MOFU",
@@ -251,7 +251,7 @@
     },
     {
       "id": 66,
-      "title": "Modular Eye Care & Ophthalmology Clinics — Factory-Built Ophthalmology & Optometry Buildings",
+      "title": "Modular Eye Care & Ophthalmology Clinics \u2014 Factory-Built Ophthalmology & Optometry Buildings",
       "status": "published",
       "score": 78,
       "funnel": "MOFU",
@@ -262,7 +262,7 @@
     },
     {
       "id": 67,
-      "title": "Modular Embassy & Consulate Buildings — Factory-Built Diplomatic Facilities & Secure Compounds",
+      "title": "Modular Embassy & Consulate Buildings \u2014 Factory-Built Diplomatic Facilities & Secure Compounds",
       "status": "published",
       "score": 74,
       "funnel": "BOFU",
@@ -273,7 +273,7 @@
     },
     {
       "id": 68,
-      "title": "Modular Oilfield & Energy Infrastructure — Well Pads, Pump Stations & Remote Facilities",
+      "title": "Modular Oilfield & Energy Infrastructure \u2014 Well Pads, Pump Stations & Remote Facilities",
       "status": "published",
       "score": 82,
       "funnel": "MOFU",
@@ -283,7 +283,7 @@
     },
     {
       "id": 69,
-      "title": "Modular Power Generation & CHP Plants — Gas Turbine Enclosures & Peaker Plants",
+      "title": "Modular Power Generation & CHP Plants \u2014 Gas Turbine Enclosures & Peaker Plants",
       "status": "published",
       "score": 78,
       "funnel": "MOFU",
@@ -293,7 +293,7 @@
     },
     {
       "id": 70,
-      "title": "Modular Waste-to-Energy Facilities — EFW Plants & Resource Recovery Infrastructure",
+      "title": "Modular Waste-to-Energy Facilities \u2014 EFW Plants & Resource Recovery Infrastructure",
       "status": "published",
       "score": 74,
       "funnel": "MOFU",
@@ -303,7 +303,7 @@
     },
     {
       "id": 71,
-      "title": "Modular Cannabis Cultivation Facilities — Factory-Built Grow Rooms & Cultivation Buildings",
+      "title": "Modular Cannabis Cultivation Facilities \u2014 Factory-Built Grow Rooms & Cultivation Buildings",
       "status": "published",
       "score": 84,
       "funnel": "MOFU",
@@ -313,7 +313,7 @@
     },
     {
       "id": 72,
-      "title": "Modular Movie Theaters & Cinema Venues — Factory-Built Auditoriums & Multiplex Buildings",
+      "title": "Modular Movie Theaters & Cinema Venues \u2014 Factory-Built Auditoriums & Multiplex Buildings",
       "status": "published",
       "score": 80,
       "funnel": "BOFU",
@@ -323,7 +323,7 @@
     },
     {
       "id": 73,
-      "title": "Modular Heliports & VTA Facilities — Factory-Built Helipad Buildings & Vertiports",
+      "title": "Modular Heliports & VTA Facilities \u2014 Factory-Built Helipad Buildings & Vertiports",
       "status": "published",
       "score": 78,
       "funnel": "MOFU",
@@ -333,7 +333,7 @@
     },
     {
       "id": 74,
-      "title": "Modular Truck Stops & Travel Plazas — Factory-Built Truck Stop Buildings, Convenience Stores & Rest Areas",
+      "title": "Modular Truck Stops & Travel Plazas \u2014 Factory-Built Truck Stop Buildings, Convenience Stores & Rest Areas",
       "status": "published",
       "score": 74,
       "funnel": "MOFU",
@@ -343,7 +343,7 @@
     },
     {
       "id": 75,
-      "title": "Modular Weigh Stations & Scale Houses — Factory-Built Truck Scale Buildings & DOT Inspection Facilities",
+      "title": "Modular Weigh Stations & Scale Houses \u2014 Factory-Built Truck Scale Buildings & DOT Inspection Facilities",
       "status": "published",
       "score": 72,
       "funnel": "BOFU",
@@ -353,7 +353,7 @@
     },
     {
       "id": 76,
-      "title": "Modular Radiation Therapy & Oncology Centers — Factory-Built LINAC Bunkers & Cancer Treatment Facilities",
+      "title": "Modular Radiation Therapy & Oncology Centers \u2014 Factory-Built LINAC Bunkers & Cancer Treatment Facilities",
       "status": "published",
       "score": 76,
       "funnel": "MOFU",
@@ -363,7 +363,7 @@
     },
     {
       "id": 77,
-      "title": "Modular Golf Clubhouse Construction — Prefab Clubhouses, Pro Shops & Course Facilities",
+      "title": "Modular Golf Clubhouse Construction \u2014 Prefab Clubhouses, Pro Shops & Course Facilities",
       "status": "published",
       "score": 85,
       "funnel": "MOFU",
@@ -373,7 +373,7 @@
     },
     {
       "id": 78,
-      "title": "Modular Pickleball Facility Construction — Indoor Court Buildings & Multi-Court Clubs",
+      "title": "Modular Pickleball Facility Construction \u2014 Indoor Court Buildings & Multi-Court Clubs",
       "status": "published",
       "score": 83,
       "funnel": "MOFU",
@@ -383,7 +383,7 @@
     },
     {
       "id": 79,
-      "title": "Modular Pharmacy & Drugstore Construction — Retail Pharmacies & Drive-Thru Dispensaries",
+      "title": "Modular Pharmacy & Drugstore Construction \u2014 Retail Pharmacies & Drive-Thru Dispensaries",
       "status": "published",
       "score": 80,
       "funnel": "MOFU",
@@ -393,7 +393,7 @@
     },
     {
       "id": 80,
-      "title": "Modular Construction Scheduling — Factory Production Slots, Critical Path Planning & On-Time Delivery",
+      "title": "Modular Construction Scheduling \u2014 Factory Production Slots, Critical Path Planning & On-Time Delivery",
       "status": "published",
       "score": 74,
       "funnel": "MOFU",
@@ -403,7 +403,7 @@
     },
     {
       "id": 81,
-      "title": "Modular Fertility Clinics & IVF Centers — Embryology Labs, Procedure Suites & Recovery Areas",
+      "title": "Modular Fertility Clinics & IVF Centers \u2014 Embryology Labs, Procedure Suites & Recovery Areas",
       "status": "published",
       "score": 72,
       "funnel": "MOFU",
@@ -413,7 +413,7 @@
     },
     {
       "id": 82,
-      "title": "Modular Salt Storage & Winter Maintenance Buildings — Salt Domes, Brine Facilities & Equipment Shelters",
+      "title": "Modular Salt Storage & Winter Maintenance Buildings \u2014 Salt Domes, Brine Facilities & Equipment Shelters",
       "status": "published",
       "score": 70,
       "funnel": "BOFU",
@@ -423,7 +423,7 @@
     },
     {
       "id": 83,
-      "title": "Modular Grocery & Supermarket Construction — Fresh-Format Stores Built 40% Faster",
+      "title": "Modular Grocery & Supermarket Construction \u2014 Fresh-Format Stores Built 40% Faster",
       "status": "published",
       "score": 70,
       "funnel": "MOFU",
@@ -433,7 +433,7 @@
     },
     {
       "id": 84,
-      "title": "Modular Recycling Centers & MRFs — Material Recovery Facilities Built to Process",
+      "title": "Modular Recycling Centers & MRFs \u2014 Material Recovery Facilities Built to Process",
       "status": "published",
       "score": 70,
       "funnel": "MOFU",
@@ -443,7 +443,7 @@
     },
     {
       "id": 85,
-      "title": "Modular RV Parks & Campgrounds — Amenity Buildings, Cabins & Support Facilities",
+      "title": "Modular RV Parks & Campgrounds \u2014 Amenity Buildings, Cabins & Support Facilities",
       "status": "published",
       "score": 70,
       "funnel": "MOFU",
@@ -453,7 +453,7 @@
     },
     {
       "id": 83,
-      "title": "Modular Assisted Living Facility Construction — Memory Care, ALFs & Care Communities",
+      "title": "Modular Assisted Living Facility Construction \u2014 Memory Care, ALFs & Care Communities",
       "status": "published",
       "score": 84,
       "funnel": "MOFU",
@@ -463,7 +463,7 @@
     },
     {
       "id": 84,
-      "title": "Modular Homeless Shelters & Transitional Housing — Rapid Response for Municipalities & Nonprofits",
+      "title": "Modular Homeless Shelters & Transitional Housing \u2014 Rapid Response for Municipalities & Nonprofits",
       "status": "published",
       "score": 78,
       "funnel": "BOFU",
@@ -473,7 +473,7 @@
     },
     {
       "id": 85,
-      "title": "Modular Greenhouse Construction — Commercial Growing Facilities Built in Months",
+      "title": "Modular Greenhouse Construction \u2014 Commercial Growing Facilities Built in Months",
       "status": "published",
       "score": 76,
       "funnel": "MOFU",
@@ -483,7 +483,7 @@
     },
     {
       "id": 86,
-      "title": "Modular Aircraft Hangar Construction — T-Hangars, Corporate & MRO Facilities",
+      "title": "Modular Aircraft Hangar Construction \u2014 T-Hangars, Corporate & MRO Facilities",
       "status": "published",
       "score": 82,
       "funnel": "BOFU",
@@ -494,7 +494,7 @@
     },
     {
       "id": 87,
-      "title": "Modular Ski Lodge Construction — Mountain Resort Base Lodges & Employee Housing",
+      "title": "Modular Ski Lodge Construction \u2014 Mountain Resort Base Lodges & Employee Housing",
       "status": "published",
       "score": 78,
       "funnel": "MOFU",
@@ -505,7 +505,7 @@
     },
     {
       "id": 88,
-      "title": "Modular Aquarium & Marine Park Construction — Life-Support-Ready Public Aquariums",
+      "title": "Modular Aquarium & Marine Park Construction \u2014 Life-Support-Ready Public Aquariums",
       "status": "published",
       "score": 76,
       "funnel": "MOFU",
@@ -516,7 +516,7 @@
     },
     {
       "id": 89,
-      "title": "Modular Observatory Buildings — Precision Enclosures & Support Facilities for Astronomy",
+      "title": "Modular Observatory Buildings \u2014 Precision Enclosures & Support Facilities for Astronomy",
       "status": "published",
       "score": 74,
       "funnel": "BOFU",
@@ -526,7 +526,7 @@
     },
     {
       "id": 90,
-      "title": "Modular Botanical Gardens & Conservatories — Climate-Controlled Plant Halls",
+      "title": "Modular Botanical Gardens & Conservatories \u2014 Climate-Controlled Plant Halls",
       "status": "published",
       "score": 72,
       "funnel": "MOFU",
@@ -536,7 +536,7 @@
     },
     {
       "id": 91,
-      "title": "Modular Aquaculture Facilities — RAS Hatcheries & Fish Farms",
+      "title": "Modular Aquaculture Facilities \u2014 RAS Hatcheries & Fish Farms",
       "status": "published",
       "score": 78,
       "funnel": "BOFU",
@@ -546,7 +546,7 @@
     },
     {
       "id": 92,
-      "title": "Modular Dental Clinics & Oral Surgery Centers — Medical-Grade Prefab Buildings for Growing Practices",
+      "title": "Modular Dental Clinics & Oral Surgery Centers \u2014 Medical-Grade Prefab Buildings for Growing Practices",
       "status": "published",
       "score": 78,
       "funnel": "BOFU",
@@ -556,7 +556,7 @@
     },
     {
       "id": 93,
-      "title": "Modular Skilled Nursing Facilities — Medicare-Certified Prefab Buildings for Post-Acute Care",
+      "title": "Modular Skilled Nursing Facilities \u2014 Medicare-Certified Prefab Buildings for Post-Acute Care",
       "status": "published",
       "score": 81,
       "funnel": "BOFU",
@@ -566,7 +566,7 @@
     },
     {
       "id": 94,
-      "title": "Modular Offshore Platforms & Marine Support Buildings — Blast-Resistant Prefab Quarters for Energy Operations",
+      "title": "Modular Offshore Platforms & Marine Support Buildings \u2014 Blast-Resistant Prefab Quarters for Energy Operations",
       "status": "published",
       "score": 74,
       "funnel": "MOFU",
@@ -576,7 +576,7 @@
     },
     {
       "id": 95,
-      "title": "Modular Motorsports & Race Track Facilities — Factory-Built Pit Buildings, Grandstands & Karting Venues",
+      "title": "Modular Motorsports & Race Track Facilities \u2014 Factory-Built Pit Buildings, Grandstands & Karting Venues",
       "status": "published",
       "score": 78,
       "funnel": "BOFU",
@@ -586,7 +586,7 @@
     },
     {
       "id": 96,
-      "title": "Modular Bowling Alley & Family Entertainment Center Construction — FEC Venues with Lanes, Arcades & Food Service",
+      "title": "Modular Bowling Alley & Family Entertainment Center Construction \u2014 FEC Venues with Lanes, Arcades & Food Service",
       "status": "published",
       "score": 75,
       "funnel": "BOFU",
@@ -596,7 +596,7 @@
     },
     {
       "id": 97,
-      "title": "Modular Toll Plaza Construction — Factory-Built Toll Booths, Canopy Systems & Plaza Buildings",
+      "title": "Modular Toll Plaza Construction \u2014 Factory-Built Toll Booths, Canopy Systems & Plaza Buildings",
       "status": "published",
       "score": 72,
       "funnel": "BOFU",
@@ -606,7 +606,7 @@
     },
     {
       "id": 98,
-      "title": "Modular Plasma & Blood Donation Centers — Turnkey Donor Facilities for Plasma Collection Networks",
+      "title": "Modular Plasma & Blood Donation Centers \u2014 Turnkey Donor Facilities for Plasma Collection Networks",
       "status": "published",
       "score": 84,
       "funnel": "BOFU",
@@ -617,7 +617,7 @@
     },
     {
       "id": 99,
-      "title": "Modular Theme Parks & Amusement Facilities — Factory-Built Venue Buildings for Attraction Owners",
+      "title": "Modular Theme Parks & Amusement Facilities \u2014 Factory-Built Venue Buildings for Attraction Owners",
       "status": "published",
       "score": 82,
       "funnel": "BOFU",
@@ -628,7 +628,7 @@
     },
     {
       "id": 100,
-      "title": "Modular Science Centers & Planetariums — Precision Enclosures for Interactive Education Venues",
+      "title": "Modular Science Centers & Planetariums \u2014 Precision Enclosures for Interactive Education Venues",
       "status": "published",
       "score": 79,
       "funnel": "MOFU",
@@ -636,6 +636,39 @@
       "created": "2026-08-08",
       "note": "Education MOFU; science center 0, science museum 0, planetarium 1 passing mention in observatory",
       "published": "2026-08-08"
+    },
+    {
+      "id": 101,
+      "title": "Modular Zoo & Wildlife Facilities \u2014 Factory-Built Animal Housing, Veterinary & Visitor Buildings",
+      "status": "published",
+      "score": 72,
+      "funnel": "BOFU",
+      "file": "/blog/modular-zoo-wildlife-facilities.html",
+      "created": "2026-08-09",
+      "published": "2026-08-09",
+      "note": "Commercial BOFU; zoo 0 dedicated hits (2 passing mentions only); AZA/USDA housing+quarantine angle"
+    },
+    {
+      "id": 102,
+      "title": "Modular Water Parks & Indoor Aquatic Attractions \u2014 Factory-Built Pool Halls & Plant Rooms",
+      "status": "published",
+      "score": 74,
+      "funnel": "BOFU",
+      "file": "/blog/modular-water-parks-indoor-aquatic-attractions.html",
+      "created": "2026-08-09",
+      "published": "2026-08-09",
+      "note": "Commercial BOFU; water park 0 hits; distinct from indoor-aquatic community centers article"
+    },
+    {
+      "id": 103,
+      "title": "Modular Spaceports & Rocket Launch Facilities \u2014 Integration, Payload & Mission Buildings",
+      "status": "published",
+      "score": 68,
+      "funnel": "BOFU",
+      "file": "/blog/modular-spaceports-rocket-launch-facilities.html",
+      "created": "2026-08-09",
+      "published": "2026-08-09",
+      "note": "Transportation BOFU; spaceport 0 hits (theming metaphor only); FAA Part 420 angle"
     }
   ]
 }
